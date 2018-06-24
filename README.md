@@ -13,3 +13,6 @@
 * cutjj.exe 是一个处理工具，一般来说用不到。当你用上面的方法提示失败时，你可以使用这个。使用方法是：复制 输入框 中的所有代码，然后打开 cutjj.exe ，然后就可以去晋江粘贴了。(cutjj.py是cutjj.ext的python源码，我**猜测**python的windows api比前端api稳定、兼容度高，所以作为备选方案，然而不一定啊。。。)
 
 * 理论上来说这样是可以的。处理成功的标志是：你粘贴出来的代码只有一行。如果不是这样的话，说明还是失败了，如果真是这样，你call我吧。。。
+## Preview
+![预览](https://github.com/xiaomingTang/image-yqy/blob/master/2.png?raw=true)
+![预览](https://github.com/xiaomingTang/image-yqy/blob/master/3.png?raw=true)
