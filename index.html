@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"> 
+  <meta name="author" content="1038761793@qq.com">
+  <title>晋江编程测试工具</title>
+  <link rel="stylesheet" href="css/index.css">
+  <link rel="stylesheet" href="css/normal.css">
+</head>
+<body>
+  <div class="page" id="page">
+    <div class="input-wrapper">
+      <textarea class="input" id="input" placeholder="请在此输入代码..."  spellcheck="false"></textarea>
+      
+      <button class="test" id="test">晋江测试</button>
+      <button class="trigger" id="trigger" data-clipboard-action="copy" data-clipboard-target="#input">输出代码</button>
+    </div>
+    <div class="output" id="output">
+
+    </div>
+  </div>
+  <script src="plugins/jquery.min.js"></script>
+  <script src="plugins/clipboard.min.js"></script>
+  <script src="js/index.js"></script>
+</body>
+</html>
