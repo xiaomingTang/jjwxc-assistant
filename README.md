@@ -1,4 +1,6 @@
 # 晋江文学城 编程辅助预览工具
+## Preview
+[预览直通车](https://xiaomingtang.github.io/jjwxc-assistant/)
 ## Introduction
 晋江抽风，众所周知，应某同学邀，制作了该**编程辅助预览工具**。该工具能帮助你预览代码在晋江上的显示效果，**并稍微加了点处理，以便修正 晋江会在行末加&lt;br&gt; 的bug(feature?)**。
 ## Install
