@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 # 注意，以下适用版本为python 3.6.5，其他版本可能会出现语法兼容问题
 
-__author__ = "1038761793@qq.com"
+__author__ = "xiaoming"
 
 import re
 import time
